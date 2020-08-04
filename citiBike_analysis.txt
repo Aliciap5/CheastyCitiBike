@@ -1,0 +1,8 @@
+Analysis of bike 14029 for the year 2018:
+
+-The bike was well traveled all over the city and did not stay in any area for any particular time.
+- Subscribers had a fairly consistent and fairly broad age range while the customers had a large percentage born in 1969 and a younger narrower age range.
+- Duration of trip and distance from start and end were strongly correlated but there were notable exceptions of both long trips with short distance and short trips that covered large distances.
+- Subscribers made up the bulk of the use but during June and September especially single customers made up a competitive portion.
+-Subscribers used the bike most heavily during traditional commute times in the mornings and evenings while customer use was more evenly distributed throughout the day.
+-Use was spread across the city but customer use is more clustered around tourist areas like central park.
